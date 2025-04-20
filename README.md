@@ -2,20 +2,20 @@
 
 **YMGK**, çocuklar için eğitici ve eğlenceli bir deneyim sunan, artırılmış gerçeklik (AR) teknolojisi ile geliştirilmiş mobil oyun uygulamasıdır. Oyun, çocukların öğrenme sürecini daha etkileşimli hale getirmeyi amaçlarken aynı zamanda onların fiziksel dünyayla bağlantısını artırır.
 
-## 🎯 Proje Amacı
+# 🎯 Proje Amacı
 
 - Artırılmış gerçeklik teknolojisiyle çocuklara yönelik etkileşimli bir oyun ortamı oluşturmak
 - Eğitici içerikler ile çocukların motor becerilerini ve problem çözme yeteneklerini geliştirmek
 - Mobil cihazlar üzerinden kolay erişim ve kullanım sağlamak
 
-## 🚀 Özellikler
+# 🚀 Özellikler
 
 - **AR (Artırılmış Gerçeklik) Teknolojisi**: Gerçek dünya ile dijital içerik birleşimi
 - **Eğitici Mini Oyunlar**: Hafıza, dikkat ve el-göz koordinasyonu üzerine oyunlar
 - **Renkli ve Çocuk Dostu Ara yüz**: Basit ve sezgisel tasarım
 - **Sesli Yönlendirme**: Okuma bilmeyen çocuklar için sesli komutlar
 
-## 🛠️ Teknolojiler
+# 🛠️ Teknolojiler
 
 - Dart
 - Flutter
@@ -24,9 +24,9 @@
 - Flutter AR
 - Visual Studio Code
 
-## 📱 Kurulum ve Çalıştırma
+# 📱 Kurulum ve Çalıştırma
 
-### Unity Üzerinden:
+## Unity Üzerinden:
 
 1. Bu projeyi klonlayın:
 ```bash
@@ -36,7 +36,7 @@ git clone https://github.com/YnsAltn/ymgk.git
 3. AR cihazınızı (mobil telefon veya tablet) test cihazı olarak ayarlayın.
 4. `Build Settings` üzerinden Android veya iOS seçin ve derleyin.
 
-## 📸 Uygulamadan Görseller
+# 📸 Uygulamadan Görseller
 
 <p align="center">
   <img src="screenshots/splash.jpg" alt="Splash Ekranı" width="250"/>
@@ -62,19 +62,19 @@ git clone https://github.com/YnsAltn/ymgk.git
   <em>AR sahnesi</em>
 </p>
 
-## 👶 Hedef Kitle
+# 👶 Hedef Kitle
 
 - 4-10 yaş arası çocuklar
 - Öğrenme güçlüğü yaşayan bireyler için alternatif öğrenme modeli
 
   
-## 📦 APK İndirme ve Kurulum
+# 📦 APK İndirme ve Kurulum
 
 Uygulamanın son derlenmiş .apk dosyasına aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 🔗 APK Dosyasını İndir (https://drive.google.com/file/d/1CwGPB_-Vo1cLH0yTTt2JAOTbBXPsTzCU/view?usp=sharing)
 
-# Android Cihazınıza APK Kurulumu:
+## Android Cihazınıza APK Kurulumu:
 
 1. Yukarıdaki bağlantıya tıklayarak .apk dosyasını cihazınıza indirin.
 2. İndirme tamamlandıktan sonra, dosyaya tıklayın.
@@ -84,7 +84,7 @@ Uygulamanın son derlenmiş .apk dosyasına aşağıdaki bağlantıdan ulaşabil
 -Not: APK boyutu büyük olduğundan ilk açılışta biraz zaman alabilir. AR özelliklerini kullanmak için ARCore destekli bir cihaz kullanmanız gerekir.
 
 
-## 🤝 Katkıda Bulunmak
+# 🤝 Katkıda Bulunmak
 
 1. Bu repoyu fork'layın
 2. Yeni bir dal oluşturun: `git checkout -b yeni-ozellik`
@@ -92,11 +92,11 @@ Uygulamanın son derlenmiş .apk dosyasına aşağıdaki bağlantıdan ulaşabil
 4. Dalı pushlayın: `git push origin yeni-ozellik`
 5. Pull Request oluşturun
 
-## 📄 Lisans
+# 📄 Lisans
 
 Bu proje MIT lisansı ile korunmaktadır.
 
-## 👩‍💻 Geliştirici
+# 👩‍💻 Geliştirici
 
 [Geliştirici Profilleri (GitHub)](https://github.com/YnsAltn)
 [Geliştirici Profilleri (GitHub)](https://github.com/kilicarslanokan)
