@@ -1,57 +1,67 @@
-# YMGK
+# YMGK - Artırılmış Gerçeklik (AR) Destekli Mobil Oyun
 
-**YMGK**, yönetim ve görev kontrolü için geliştirilmiş bir uygulamadır. Kullanıcıların görevlerini organize etmelerine, ekip içinde işbirliği yapmalarına ve süreçleri verimli bir şekilde yönetmelerine yardımcı olur.
+**YMGK**, çocuklar için eğitici ve eğlenceli bir deneyim sunan, artırılmış gerçeklik (AR) teknolojisi ile geliştirilmiş mobil oyun uygulamasıdır. Oyun, çocukların öğrenme sürecini daha etkileşimli hale getirmeyi amaçlarken aynı zamanda onların fiziksel dünyayla bağlantısını artırır.
+
+## 🎯 Proje Amacı
+
+- Artırılmış gerçeklik teknolojisiyle çocuklara yönelik etkileşimli bir oyun ortamı oluşturmak
+- Eğitici içerikler ile çocukların motor becerilerini ve problem çözme yeteneklerini geliştirmek
+- Mobil cihazlar üzerinden kolay erişim ve kullanım sağlamak
 
 ## 🚀 Özellikler
 
-- **Kullanıcı Dostu Arayüz**
-- **Gerçek Zamanlı Güncellemeler**
-- **Görev Oluşturma ve Takip Sistemi**
+- **AR (Artırılmış Gerçeklik) Teknolojisi**: Gerçek dünya ile dijital içerik birleşimi
+- **Eğitici Mini Oyunlar**: Hafıza, dikkat ve el-göz koordinasyonu üzerine oyunlar
+- **Renkli ve Çocuk Dostu Ara yüz**: Basit ve sezgisel tasarım
+- **Sesli Yönlendirme**: Okuma bilmeyen çocuklar için sesli komutlar
 
-## 🛠️ Kurulum
+## 🛠️ Teknolojiler
 
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
+- Unity 3D
+- Vuforia SDK (AR desteği için)
+- C#
+- Android Studio / Xcode (mobil platformlar için derleme)
 
+## 📱 Kurulum ve Çalıştırma
+
+### Unity Üzerinden:
+
+1. Bu projeyi klonlayın:
 ```bash
 git clone https://github.com/YnsAltn/ymgk.git
-cd ymgk
 ```
+2. Unity Hub üzerinden projeyi açın.
+3. AR cihazınızı (mobil telefon veya tablet) test cihazı olarak ayarlayın.
+4. `Build Settings` üzerinden Android veya iOS seçin ve derleyin.
 
-Python ortamı için:
+## 📸 Uygulamadan Görseller
 
-```bash
-pip install -r requirements.txt
-python app.py
-```
+> (Lütfen `screenshots/` klasörüne ekran görüntülerinizi ekleyin.)
 
-## 📸 Ekran Görüntüleri
+![AR Sahne](screenshots/ar-scene.png)
+*Artırılmış gerçeklik ortamında oyun*
 
-> (Görsellerin buraya eklenmesi için `screenshots/` klasörü oluşturulmalı.)
+![Ana Menü](screenshots/main-menu.png)
+*Çocuklara özel tasarlanmış kullanıcı ara yüzü*
 
-![Ana Sayfa](screenshots/homepage.png)
-*Ana sayfa görünümü*
+## 👶 Hedef Kitle
 
-![Görev Yönetimi](screenshots/task_management.png)
-*Görev yönetimi arayüzü*
+- 4-10 yaş arası çocuklar
+- Öğrenme güçlüğü yaşayan bireyler için alternatif öğrenme modeli
 
-## 📚 Kullanım
-
-1. Kayıt olun veya giriş yapın
-2. Yeni görev oluşturun
-3. Görevleri yönetin, tamamlayın veya silin
-
-## 🤝 Katkıda Bulunma
+## 🤝 Katkıda Bulunmak
 
 1. Bu repoyu fork'layın
 2. Yeni bir dal oluşturun: `git checkout -b yeni-ozellik`
-3. Değişikliklerinizi commit edin: `git commit -m "Yeni özellik eklendi"`
-4. Dalınızı pushlayın: `git push origin yeni-ozellik`
-5. Bir Pull Request oluşturun
+3. Değişiklikleri commit edin: `git commit -m "Yeni AR özelliği eklendi"`
+4. Dalı pushlayın: `git push origin yeni-ozellik`
+5. Pull Request oluşturun
 
 ## 📄 Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
+Bu proje MIT lisansı ile korunmaktadır.
 
-## 📞 İletişim
+## 👩‍💻 Geliştirici
 
-[Geliştirici Profili (GitHub)](https://github.com/YnsAltn)
+[Geliştirici Profilleri (GitHub)](https://github.com/YnsAltn)
+[Geliştirici Profilleri (GitHub)](https://github.com/kilicarslanokan)
