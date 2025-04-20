@@ -71,7 +71,7 @@ git clone https://github.com/YnsAltn/ymgk.git
 
 Projemizin genel yapısını, özelliklerini ve kullanım senaryolarını anlatan tanıtım videosunu aşağıdaki bağlantıdan izleyebilirsiniz:
 
-👉 📽️ YMGK Proje Tanıtım Videosu (Google Drive)
+👉 📽️ YMGK Proje Tanıtım Videosu (https://drive.google.com/file/d/1oinGHi962CTifQMiLo3eKq__zoIzkDbj/view?usp=drive_link)
 
 ## Videoda Neler Var?
 
