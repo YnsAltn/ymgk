@@ -67,6 +67,19 @@ git clone https://github.com/YnsAltn/ymgk.git
 - 4-10 yaş arası çocuklar
 - Öğrenme güçlüğü yaşayan bireyler için alternatif öğrenme modeli
 
+# 🎥 Proje Tanıtım Videosu
+
+Projemizin genel yapısını, özelliklerini ve kullanım senaryolarını anlatan tanıtım videosunu aşağıdaki bağlantıdan izleyebilirsiniz:
+
+👉 📽️ YMGK Proje Tanıtım Videosu (Google Drive)
+
+## Videoda Neler Var?
+
+- Proje hedefleri ve çözmek istediği problem
+- Uygulamanın genel kullanıcı arayüzü tanıtımı
+- Avatar, ekipman ve araç seçim ekranları
+- AR (Artırılmış Gerçeklik) sahnesinin nasıl çalıştığı
+- Örnek kullanıcı deneyimi
   
 # 📦 APK İndirme ve Kurulum
 
