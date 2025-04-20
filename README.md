@@ -38,25 +38,24 @@ git clone https://github.com/YnsAltn/ymgk.git
 
 ## 📸 Uygulamadan Görseller
 
-> (Lütfen `screenshots/` klasörüne ekran görüntülerinizi ekleyin.)
-
-![Splash Ekranı](screenshots/splash.jpg)
+<img src="screenshots/splash.jpg" alt="Splash Ekranı" width="300"/>
 *Çocukları karşılayan ilk ekran*
 
-![Avatar Seçim Ekranı](screenshots/avatar.jpg)
+<img src="screenshots/avatar.jpg" alt="Avatar Seçim Ekranı" width="300"/>
 *Çocuklar özel olarak tasarlanmış avatarları seçebilecekler*
 
-![Ekipman Seçim Ekranı](screenshots/ekipman.jpg)
+<img src="screenshots/ekipman.jpg" alt="Ekipman Seçim Ekranı" width="300"/>
 *Çocuklar hangi ekipman ile bu keşife başlayacaklarını diledikleri gibi seçebilecekler*
 
-![Araç Seçim Ekranı](screenshots/araç.jpg)
+<img src="screenshots/araç.jpg" alt="Araç Seçim Ekranı" width="300"/>
 *Çocuklar bu Dünya Keşfi'nde tamamen hayal güçlerine yönelik tasarlanmış özel araçları seçebilecekler*
 
-![Kaşif Yemini Ekranı](screenshots/yemin.jpg)
+<img src="screenshots/yemin.jpg" alt="Kaşif Yemini Ekranı" width="300"/>
 *Çocuklar bu kaşife başlamaları için kaşif yemini vereceklerdir*
 
-![AR Sahne](screenshots/AR_sahne.jpg)
+<img src="screenshots/AR_sahne.jpg" alt="AR Sahne" width="300"/>
 *Çocuklara özel tasarlanmış AR Sahnesi*
+
 
 ## 👶 Hedef Kitle
 
