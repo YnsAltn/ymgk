@@ -1,16 +1,57 @@
-# ymgk
+# YMGK
 
-A new Flutter project.
+**YMGK**, yönetim ve görev kontrolü için geliştirilmiş bir uygulamadır. Kullanıcıların görevlerini organize etmelerine, ekip içinde işbirliği yapmalarına ve süreçleri verimli bir şekilde yönetmelerine yardımcı olur.
 
-## Getting Started
+## 🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+- **Kullanıcı Dostu Arayüz**
+- **Gerçek Zamanlı Güncellemeler**
+- **Görev Oluşturma ve Takip Sistemi**
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kurulum
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/YnsAltn/ymgk.git
+cd ymgk
+```
+
+Python ortamı için:
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+## 📸 Ekran Görüntüleri
+
+> (Görsellerin buraya eklenmesi için `screenshots/` klasörü oluşturulmalı.)
+
+![Ana Sayfa](screenshots/homepage.png)
+*Ana sayfa görünümü*
+
+![Görev Yönetimi](screenshots/task_management.png)
+*Görev yönetimi arayüzü*
+
+## 📚 Kullanım
+
+1. Kayıt olun veya giriş yapın
+2. Yeni görev oluşturun
+3. Görevleri yönetin, tamamlayın veya silin
+
+## 🤝 Katkıda Bulunma
+
+1. Bu repoyu fork'layın
+2. Yeni bir dal oluşturun: `git checkout -b yeni-ozellik`
+3. Değişikliklerinizi commit edin: `git commit -m "Yeni özellik eklendi"`
+4. Dalınızı pushlayın: `git push origin yeni-ozellik`
+5. Bir Pull Request oluşturun
+
+## 📄 Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
+
+## 📞 İletişim
+
+[Geliştirici Profili (GitHub)](https://github.com/YnsAltn)
