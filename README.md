@@ -17,10 +17,12 @@
 
 ## 🛠️ Teknolojiler
 
-- Unity 3D
-- Vuforia SDK (AR desteği için)
-- C#
-- Android Studio / Xcode (mobil platformlar için derleme)
+- Dart
+- Flutter
+- ARCore ve ARKit
+- EasyAR
+- Flutter AR
+- Visual Studio Code
 
 ## 📱 Kurulum ve Çalıştırma
 
@@ -38,11 +40,23 @@ git clone https://github.com/YnsAltn/ymgk.git
 
 > (Lütfen `screenshots/` klasörüne ekran görüntülerinizi ekleyin.)
 
-![AR Sahne](screenshots/ar-scene.png)
-*Artırılmış gerçeklik ortamında oyun*
+![Splash Ekranı](screenshots/splash.jpg)
+*Çocukları karşılayan ilk ekran*
 
-![Ana Menü](screenshots/main-menu.png)
-*Çocuklara özel tasarlanmış kullanıcı ara yüzü*
+![Avatar Seçim Ekranı](screenshots/avatar.jpg)
+*Çocuklar özel olarak tasarlanmış avatarları seçebilecekler*
+
+![Ekipman Seçim Ekranı](screenshots/ekipman.jpg)
+*Çocuklar hangi ekipman ile bu keşife başlayacaklarını diledikleri gibi seçebilecekler*
+
+![Araç Seçim Ekranı](screenshots/araç.jpg)
+*Çocuklar bu Dünya Keşfi'nde tamamen hayal güçlerine yönelik tasarlanmış özel araçları seçebilecekler*
+
+![Kaşif Yemini Ekranı](screenshots/yemin.jpg)
+*Çocuklar bu kaşife başlamaları için kaşif yemini vereceklerdir*
+
+![AR Sahne](screenshots/AR_sahne.jpg)
+*Çocuklara özel tasarlanmış AR Sahnesi*
 
 ## 👶 Hedef Kitle
 
