@@ -67,6 +67,23 @@ git clone https://github.com/YnsAltn/ymgk.git
 - 4-10 yaş arası çocuklar
 - Öğrenme güçlüğü yaşayan bireyler için alternatif öğrenme modeli
 
+  
+## 📦 APK İndirme ve Kurulum
+
+Uygulamanın son derlenmiş .apk dosyasına aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+🔗 APK Dosyasını İndir (https://drive.google.com/file/d/1CwGPB_-Vo1cLH0yTTt2JAOTbBXPsTzCU/view?usp=sharing)
+
+# Android Cihazınıza APK Kurulumu:
+
+1. Yukarıdaki bağlantıya tıklayarak .apk dosyasını cihazınıza indirin.
+2. İndirme tamamlandıktan sonra, dosyaya tıklayın.
+3. Eğer "Bilinmeyen kaynaklardan yükleme" izni açık değilse, ayarlardan izin verin.
+4. Yükleme tamamlandığında uygulamayı açabilirsiniz.
+
+-Not: APK boyutu büyük olduğundan ilk açılışta biraz zaman alabilir. AR özelliklerini kullanmak için ARCore destekli bir cihaz kullanmanız gerekir.
+
+
 ## 🤝 Katkıda Bulunmak
 
 1. Bu repoyu fork'layın
