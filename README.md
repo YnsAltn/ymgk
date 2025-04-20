@@ -38,24 +38,29 @@ git clone https://github.com/YnsAltn/ymgk.git
 
 ## 📸 Uygulamadan Görseller
 
-<img src="screenshots/splash.jpg" alt="Splash Ekranı" width="300"/>
-*Çocukları karşılayan ilk ekran*
+<p align="center">
+  <img src="screenshots/splash.jpg" alt="Splash Ekranı" width="250"/>
+  <img src="screenshots/avatar.jpg" alt="Avatar Seçim Ekranı" width="250"/>
+  <img src="screenshots/ekipman.jpg" alt="Ekipman Seçim Ekranı" width="250"/>
+</p>
+<p align="center">
+  <em>Çocukları karşılayan ilk ekran</em> &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Avatar seçim ekranı</em> &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Ekipman seçim ekranı</em>
+</p>
 
-<img src="screenshots/avatar.jpg" alt="Avatar Seçim Ekranı" width="300"/>
-*Çocuklar özel olarak tasarlanmış avatarları seçebilecekler*
+<br/>
 
-<img src="screenshots/ekipman.jpg" alt="Ekipman Seçim Ekranı" width="300"/>
-*Çocuklar hangi ekipman ile bu keşife başlayacaklarını diledikleri gibi seçebilecekler*
-
-<img src="screenshots/araç.jpg" alt="Araç Seçim Ekranı" width="300"/>
-*Çocuklar bu Dünya Keşfi'nde tamamen hayal güçlerine yönelik tasarlanmış özel araçları seçebilecekler*
-
-<img src="screenshots/yemin.jpg" alt="Kaşif Yemini Ekranı" width="300"/>
-*Çocuklar bu kaşife başlamaları için kaşif yemini vereceklerdir*
-
-<img src="screenshots/AR_sahne.jpg" alt="AR Sahne" width="300"/>
-*Çocuklara özel tasarlanmış AR Sahnesi*
-
+<p align="center">
+  <img src="screenshots/araç.jpg" alt="Araç Seçim Ekranı" width="250"/>
+  <img src="screenshots/yemin.jpg" alt="Kaşif Yemini Ekranı" width="250"/>
+  <img src="screenshots/AR_sahne.jpg" alt="AR Sahne" width="250"/>
+</p>
+<p align="center">
+  <em>Araç seçim ekranı</em> &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Kaşif yemini ekranı</em> &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>AR sahnesi</em>
+</p>
 
 ## 👶 Hedef Kitle
 
